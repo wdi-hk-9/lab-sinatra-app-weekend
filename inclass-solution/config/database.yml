@@ -1,0 +1,8 @@
+development:
+  adapter: postgresql
+  database: scotch_development
+
+# development: {
+#   adapter: "postgresql",
+#   database: "scotch_development"
+# }
